@@ -1,0 +1,2 @@
+# premium-column-still-001-column-still-plate-count-guide
+Guessing your column still's plate count wastes time and costs money in lost efficiency. The Column Still Plate Count Guide eliminates the guesswork with a structured Notion system built specifically for distillers.  This template transforms how you track, calculate, and optimize your column still's theoretical and actual plate performance. Instead
